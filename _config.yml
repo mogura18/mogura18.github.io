@@ -1,6 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
+baseurl:        ""
 url:            "https://uysal-koyuncu.github.io"
 
 # Google Analytics
