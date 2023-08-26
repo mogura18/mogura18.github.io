@@ -4,7 +4,6 @@ title: "蓬塔阿雷纳斯"
 subtitle: "Punta Arenas"
 author: "Uysal Koyuncu"
 tags: Tale
-excerpt_separator: <!--more-->
 ---
 
 ## 指南
