@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "康赛普西翁"
-author: "Uysal Koyuncu"
 subtitle: "Concepción"
+author: "Uysal Koyuncu"
 tags: Tale
+excerpt_separator: <!--more-->
 ---
 
 ## \*\*\*\*康赛普西翁

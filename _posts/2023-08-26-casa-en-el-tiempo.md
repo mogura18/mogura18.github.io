@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "时间里的房子"
-author: "Uysal Koyuncu"
 subtitle: "Casa En El Tiempo"
+author: "Uysal Koyuncu"
 tags: Tale
+excerpt_separator: <!--more-->
 ---
 
 即便是住在这里的老彼得克，也只是听其他鬼魂说过这栋房子的完整故事。  
