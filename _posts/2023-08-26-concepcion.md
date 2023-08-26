@@ -3,8 +3,7 @@ layout: post
 title: "康赛普西翁"
 subtitle: "Concepción"
 author: "Uysal Koyuncu"
-tags: Tale
-excerpt_separator: <!--more-->
+tags: "Cuentos Chilenos"
 ---
 
 ## <sup>\*\*\*\*</sup>康赛普西翁

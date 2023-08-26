@@ -3,8 +3,7 @@ layout: post
 title: "美洲蓟"
 subtitle: "Alcachofa Americana"
 author: "Uysal Koyuncu"
-tags: Tale
-excerpt_separator: <!--more-->
+tags: "Cuentos Peruanos"
 ---
 
 今天是美洲蓟年的第一天。如此，也是美洲蓟月的第一天。也就是，第一个美洲蓟天。母亲在晚饭的时候宣布的消息；昨天，她刚宣布这周不用去做礼拜。我们其他人就坐着，听着。  

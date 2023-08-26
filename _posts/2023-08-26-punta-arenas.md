@@ -3,7 +3,7 @@ layout: post
 title: "蓬塔阿雷纳斯"
 subtitle: "Punta Arenas"
 author: "Uysal Koyuncu"
-tags: Tale
+tags: "Cuentos Chilenos"
 ---
 
 ## 指南

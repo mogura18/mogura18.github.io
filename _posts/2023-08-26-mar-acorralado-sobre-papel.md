@@ -3,8 +3,7 @@ layout: post
 title: "纸边角上的海洋"
 subtitle: "Mar Acorralado Sobre Papel"
 author: "Uysal Koyuncu"
-tags: Tale
-excerpt_separator: <!--more-->
+tags: "Cuentos Chilenos"
 ---
 
 ## 纸边角上的海洋I: 防波堤（右上）
