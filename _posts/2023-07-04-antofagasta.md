@@ -4,7 +4,6 @@ title: "安托法加斯塔"
 subtitle: "Antofagasta"
 author: "Uysal Koyuncu"
 tags: Tale
-excerpt_separator: <!--more-->
 ---
 
 ## 1
