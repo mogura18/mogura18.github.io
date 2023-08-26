@@ -3,7 +3,7 @@ layout: post
 title: "安托法加斯塔"
 subtitle: "Antofagasta"
 author: "Uysal Koyuncu"
-tags: "Cuentos Chilenos"
+tags: "Cuentos Chilenos", "Poemas"
 ---
 
 ## 1

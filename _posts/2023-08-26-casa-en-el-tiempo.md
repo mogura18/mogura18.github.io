@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "时间里的房子"
-subtitle: "Casa En El Tiempo"
+subtitle: "Casa en el Tiempo"
 author: "Uysal Koyuncu"
 tags: "Atropellado"
 ---
